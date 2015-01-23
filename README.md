@@ -1,5 +1,5 @@
 # sample-noto
-[Qiita](http://qiita.com/)
+[Qiita](http://qiita.com/nowri/items/1c69b9b25f2958bd9f97)
 
 [WEBサイト適用サンプル DEMO](http://nowri.github.io/sample-noto/)
 
