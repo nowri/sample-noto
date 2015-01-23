@@ -1,6 +1,5 @@
 # sample-noto
-[Qiitaに投稿した](http://qiita.com/)「Noto Sans CJK JP フォントをダウンロードしてサイトに適用する手順」のサンプルデータ
-
+[Qiita](http://qiita.com/)
 [WEBサイト適用サンプル DEMO](http://nowri.github.io/sample-noto/)
 
 | ディレクトリ名 | 説明 |
