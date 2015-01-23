@@ -3,6 +3,8 @@
 
 [WEBサイト適用サンプル DEMO](http://nowri.github.io/sample-noto/)
 
+| ディレクトリ名 | 説明 |
+| -------------------- |  -------------------- |
 | NotoSansCJKJP-export | WOFFコンバータ書き出しデータ |
 | NotoSansCJKJP-hinted | ダウンロード元フォントデータ |
 | NotoSansCJKJP-subset | サブセットフォントメーカー書き出しデータ |
