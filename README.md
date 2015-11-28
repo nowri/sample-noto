@@ -11,3 +11,8 @@
 | _demo                | WEBサイト適用サンプル |
 
 Noto fonts are under [Apache License 2.0.](http://www.apache.org/licenses/LICENSE-2.0.html)
+
+# 更新履歴
+
+- 2015/11/28
+  - 日本語数字（０１２３４５６７８９）を含めました。
