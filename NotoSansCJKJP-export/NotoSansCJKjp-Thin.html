@@ -6,8 +6,11 @@
 <style type="text/css">
 @font-face {
   font-family: "myFont";
-  src: url("NotoSansCJKjp-Thin.eot?") format('eot'),
-       url("NotoSansCJKjp-Thin.woff") format('woff');
+  src: url('NotoSansCJKjp-Thin.eot');
+  src: url('NotoSansCJKjp-Thin.eot?#iefix') format('embedded-opentype'),
+       url('NotoSansCJKjp-Thin.woff') format('woff'),
+       url('NotoSansCJKjp-Thin.ttf')  format('truetype'),
+       url('NotoSansCJKjp-Thin.svg#f2db667529c17d2a51532d24361a3de5') format('svg');
 }
 .myFontClass {
   font-family: "myFont";
@@ -15,6 +18,6 @@
 </style>
 
 <body>
-<p>サンプル文字列は「<span class="myFontClass">ABCDEFGHIJKLMNOPQRSTUVWXYZすべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。</span>」です。</p>
+<p>サンプル文字列は「<span class="myFontClass">ABCDEFGHIJKLMNOPQRSTUVWXYZすべての人間は、生れながらにして自由であり、かつ、尊厳と権利とについて平等である。０１２３４５６７８９</span>」です。</p>
 </body>
 </html>
